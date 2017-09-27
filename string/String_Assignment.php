@@ -38,7 +38,7 @@ $str5 = "I love my course very much.";
 $str6= wordwrap($str5, 3, "<br/>\n", true);
 echo "$str6";
 echo '<hr>';
-
+?>
 
 <?php
 print "<h1> Calculate similarity in the strings </h1>";
@@ -64,7 +64,7 @@ $str9 = 'My name is Saniya';
 $array = str_split($str9);
 print_r($array);
 echo '<hr>';
-
+?>
 
 <?php
 print"<h1> Return a formatted string </h1>";
