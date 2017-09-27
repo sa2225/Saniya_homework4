@@ -82,3 +82,4 @@ $str13 = 16857898754332.45678990900;
 $str14 = number_format($str13);
 echo $str14;
 echo '<hr>';
+?>
